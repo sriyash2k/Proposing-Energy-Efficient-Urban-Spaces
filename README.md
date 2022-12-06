@@ -4,7 +4,7 @@ Proposing energy efficient urban spaces using Internet of Things(IoT).This is a 
 
 Tools Required
 
-  -Cisco Packet Tracer
-  -Tableau
+  -Cisco Packet Tracer<br>
+  -Tableau<br>
   
   
